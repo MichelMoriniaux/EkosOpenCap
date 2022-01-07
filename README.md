@@ -1,4 +1,7 @@
-# EkosOpenCap
+# EkosScripts
+A repository of simple job scripts for Ekos
+
+uncap.py:
 Simple script to close a dustcover in Ekos
 
 This script requires a motorized dust cover or flat field cover like a FlipFlat
